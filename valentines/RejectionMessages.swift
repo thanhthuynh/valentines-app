@@ -1,0 +1,28 @@
+import Foundation
+
+let rejectionMessages: [String] = [
+    "Hmm... are you sure? 🤔",
+    "C'mon now, really? 😤",
+    "I'll give you one more chance... 💜",
+    "Tessa please 🥺",
+    "Don't do this to me 😭",
+    "I'm gonna start crying...",
+    "What if I buy you boba? 🧋",
+    "Okay what about dinner? 🍝",
+    "AND a movie?? 🎬",
+    "I'll even let you pick the movie 🥺",
+    "You're breaking my heart 💔",
+    "My heart is literally in pieces rn",
+    "I showed this to my mom she said say yes",
+    "TESSA PLEASE 😩",
+    "I made this whole app for you...",
+    "Do you know how long this took me 😭",
+    "I'm not giving up that easily 😤",
+    "The Yes button is RIGHT THERE 👆",
+    "It's getting bigger... just press it...",
+    "You know you want to 😏",
+    "Resistance is futile 💜",
+    "I'll wait here forever if I have to 🥹",
+    "Still waiting... 🥺",
+    "Okay I'll just keep waiting then 💜",
+]
